@@ -1,2 +1,5 @@
 # S23-notes
-Notes for the Fourth Semester in IIITH (CLD programme)
+The file `update.sh` runs a fish script to copy the notes pdfs from the original locations to the repository.  
+This will be (not so regularly updated).  
+
+Each course notes will be in a single file labeled `<course>.pdf`
